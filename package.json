@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "colorgenerator",
+  "version": "1.0.0",
+  "description": "Generates Pretty Gradiant Colors",
+  "main": "bundle.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AishaEvering/ColorGenerator.git"
+  },
+  "keywords": [
+    "color",
+    "gradiant",
+    "js"
+  ],
+  "author": "Aisha Evering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AishaEvering/ColorGenerator/issues"
+  },
+  "homepage": "https://github.com/AishaEvering/ColorGenerator#readme"
+}
